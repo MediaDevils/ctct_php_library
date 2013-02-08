@@ -1,4 +1,5 @@
 <?php
+namespace ConstantContact;
 
 abstract class Collection{
     public $CTCTRequest;
